@@ -52,6 +52,15 @@ The dataset contains hourly air quality measurements including:
 - Hyperparameter tuning
 - Feature selection optimization
 - Deploy model using Flask / FastAPI
+- 
+## ⚙️ Pipeline Steps
+1. Data cleaning
+2. Missing value handling
+3. Feature engineering
+4. Train-test split
+5. Model training
+6. Evaluation
+
 
 - CONCLUSION
 
